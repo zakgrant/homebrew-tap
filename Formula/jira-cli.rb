@@ -4,7 +4,7 @@ class JiraCli < Formula
   homepage 'https://bobswift.atlassian.net/wiki/display/JCLI/JIRA+Command+Line+Interface'
   url 'https://bobswift.atlassian.net/wiki/download/attachments/16285777/jira-cli-3.8.0-distribution.zip?api=v2'
   version '3.8.0'
-  sha1 '4f50db300f01a753669360510e0e6cc63234c389'
+  sha1 'e9795588ab83abbb203d9625f91a0e8f909040da'
 
   def script; <<-EOS.undent
     #!/bin/bash
